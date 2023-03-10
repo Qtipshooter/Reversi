@@ -1,0 +1,6 @@
+*.o
+*.docx
+*.exe
+
+*.dll
+!lib/*/*.dll
